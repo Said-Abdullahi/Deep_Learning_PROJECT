@@ -1,5 +1,6 @@
-Deep Learning Project: Predicting Customer Churn
-Overview
+**Deep Learning Project: Smart Recycling**
+
+**Overview**
 This repository contains the a project from my Master of Data Science degree, this assignment is to feedback on my learning in deep learning theory and its application to data analytics or artificial intelligence problems.
 
 **Task 1 (P Task) Smart Recycling using Deep Learning**
