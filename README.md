@@ -1,4 +1,4 @@
-**Deep Learning Project: NMIST and Smart Recycling**
+**Deep Learning Project: Smart Recycling**
 
 **Overview**
 
