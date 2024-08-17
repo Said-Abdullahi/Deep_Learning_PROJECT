@@ -4,7 +4,7 @@
 
 This repository contains a projects from my Master of Data Science degree. These assignments aims to demonstrate my learning in deep learning theory and its application to data analytics and artificial intelligence problems.
 
-In this repo, I build upon the image classification problem I addressed in Assignment 1, where I used a Densely Connected Neural Network on the Fashion-MNIST dataset. For Assignment 2, I apply best practices in deep-learning computer vision to develop a practical solution for waste classification, contributing to environmental sustainability.
+In this repo I apply best practices in deep-learning computer vision to develop a practical solution for waste classification, contributing to environmental sustainability.
 
 **Background**
 
